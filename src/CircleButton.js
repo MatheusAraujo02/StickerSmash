@@ -11,7 +11,7 @@ export default function CircleButton({ onPress }) {
     );
 }
 
-const style = StyleSheet.create({
+const styles = StyleSheet.create({
     circleButtonContainer:{
         width: 84,
         height: 84,
